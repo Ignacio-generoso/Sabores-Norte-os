@@ -1,0 +1,92 @@
+{ 
+  "restaurantes": [
+    {
+      "nombre": "Restaurante Los Amigo",
+      "tipo_cocina": ["Oriental", "Fusión"],
+      "direccion": "Calle robledo, 182",
+      "link": "https://es.restaurantguru.com/Resto-Bar-LOS-AMIGOS-Salta",
+      "popularidad": 4.5,
+      "disponibilidad": "Abierto",
+      "latitud": -24.8099,
+      "longitud": -65.4090,
+      "platos": [
+        {"nombre": "Sushi", "precio": 15.0, "calificacion": 4.8},
+        {"nombre": "Pollo", "precio": 12.0, "calificacion": 4.5},
+        {"nombre": "Tallarines", "precio": 10.0, "calificacion": 4.3}
+      ],
+      "eventos": [
+        {"nombre": "Festival de Sushi", "fecha_inicio": "2023-08-15", "fecha_fin": "2023-08-17", "hora": "18:00"},
+        {"nombre": "Noche de Fusión", "fecha_inicio": "2023-08-20", "fecha_fin": "2023-08-20", "hora": "20:30"}
+      ],
+      "reviews": [
+        {"cliente": "Jorge", "comentario": "Excelente lugar, comida deliciosa.", "calificacion": 5},
+        {"cliente": "Martín", "comentario": "Buen ambiente, precios razonables.", "calificacion": 4}
+      ]
+    },
+    {
+      "nombre": "Resto Las brasas",
+      "tipo_cocina": ["Oriental", "Fusión"],
+      "direccion": "Calle robledo, 182",
+      "link": "https://es.restaurantguru.com/Brasas-Parrillada-Catering-Salta",
+      "popularidad": 4.5,
+      "disponibilidad": "Abierto",
+      "latitud": -24.8099,
+      "longitud": -65.4090,
+      "platos": [
+        {"nombre": "Sushi", "precio": 15.0, "calificacion": 4.8},
+        {"nombre": "Pollo", "precio": 12.0, "calificacion": 4.5},
+        {"nombre": "Tallarines", "precio": 10.0, "calificacion": 4.3}
+      ],
+      "eventos": [
+        {"nombre": "Festival de Sushi", "fecha_inicio": "2023-08-15", "fecha_fin": "2023-08-17", "hora": "18:00"},
+        {"nombre": "Noche de Fusión", "fecha_inicio": "2023-08-20", "fecha_fin": "2023-08-20", "hora": "20:30"}
+      ],
+      "reviews": [
+        {"cliente": "Jorge", "comentario": "Excelente lugar, comida deliciosa.", "calificacion": 5},
+        {"cliente": "Martín", "comentario": "Buen ambiente, precios razonables.", "calificacion": 4}
+      ]
+    },    
+    {
+      "nombre": "La casona del molino",
+      "tipo_cocina": ["Asado", "Internacional"],
+      "direccion": "Cnel, Luis Burela 1",
+      "link": "https://es.restaurantguru.com/La-Casona-del-Molino-Salta",
+      "popularidad": 4.2,
+      "disponibilidad": "Cerrado",
+      "latitud": -24.8001,
+      "longitud": -65.4087,
+      "platos": [
+        {"nombre": "Lechon Asado", "precio": 20.0, "calificacion": 4.7},
+        {"nombre": "Cordero Asado", "precio": 18.0, "calificacion": 4.2},
+        {"nombre": "Ensalada Mediterránea", "precio": 9.0, "calificacion": 4.0}
+      ],
+      "eventos": [],
+      "reviews": [
+        {"cliente": "Lucas", "comentario": "Comida exquisita, lo recomiendo.", "calificacion": 5},
+        {"cliente": "Perea", "comentario": "Buen servicio, pero algo caro.", "calificacion": 3}
+      ]
+    },
+    {
+      "nombre": "La Criollita",
+      "tipo_cocina": ["Gourmet", "Salteña"],
+      "direccion": "Zuviria 306",
+      "link": "https://es.restaurantguru.com/La-Criollita-Salta",
+      "popularidad": 4.8,
+      "disponibilidad": "Abierto",
+      "latitud": -24.8055,
+      "longitud": -65.4055,
+      "platos": [
+        {"nombre": "Filete Mignon", "precio": 25.0, "calificacion": 4.9},
+        {"nombre": "Empanada de Carne", "precio": 16.0, "calificacion": 4.6},
+        {"nombre": "Empanada de Pollo", "precio": 8.0, "calificacion": 4.7}
+      ],
+      "eventos": [
+        {"nombre": "Noche Salteña", "fecha_inicio": "2023-09-01", "fecha_fin": "2023-09-01", "hora": "19:30"}
+      ],
+      "reviews": [
+        {"cliente": "Marcos", "comentario": "La comida es exquisita, volveré.", "calificacion": 5},
+        {"cliente": "Jesus", "comentario": "Ambiente elegante, precios acordes.", "calificacion": 4}
+      ]
+    }
+  ]
+}

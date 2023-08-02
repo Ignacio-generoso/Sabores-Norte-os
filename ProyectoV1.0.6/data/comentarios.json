@@ -1,0 +1,52 @@
+{
+    "comentarios": [
+        {
+            "restaurante": "Restaurante Los Amigo",
+            "usuario": "Juan",
+            "comentario": "Excelente servicio",
+            "calificacion": 5
+        },
+        {
+            "restaurante": "Restaurante Los Amigo",
+            "usuario": "Enrique",
+            "comentario": "Me hubiera gustado mas variedad en la carta, pero el servicio fue excelente",
+            "calificacion": 4
+        },
+        {
+            "restaurante": "Restaurante Los Amigo",
+            "usuario": "Enrique",
+            "comentario": "Falta variedad en la carta",
+            "calificacion": 3
+        },
+        {
+            "restaurante": "Resto Las brasas",
+            "usuario": "Pablo",
+            "comentario": "Muy rica la comida!",
+            "calificacion": 5
+        },
+        {
+            "restaurante": "Resto Las brasas",
+            "usuario": "Noem\u00ed",
+            "comentario": "El ambiente es hermoso",
+            "calificacion": 5
+        },
+        {
+            "restaurante": "La casona del molino",
+            "usuario": "Mart\u00edn",
+            "comentario": "Los platos tienen muy buena presentaci\u00f3n",
+            "calificacion": 5
+        },
+        {
+            "restaurante": "La Criollita",
+            "usuario": "Tom\u00e1s",
+            "comentario": "Para chuparse los dedos",
+            "calificacion": 5
+        },
+        {
+            "restaurante": "La casona del molino",
+            "usuario": "Julia",
+            "comentario": "Excelente vino",
+            "calificacion": 4
+        }
+    ]
+}
